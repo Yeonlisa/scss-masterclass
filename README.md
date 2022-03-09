@@ -10,7 +10,7 @@
 - [x]  align-content
 - [x]  flex-grow
 - [x]  flex-shrink
-- [ ]  flex-basis
+- [x]  flex-basis
 ## Grid:
 - [ ]  grid-template-columns
 - [ ]  grid-template-rows
