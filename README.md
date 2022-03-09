@@ -3,8 +3,8 @@
 ## Flexbox:
 - [ ]  flex-direction
 - [ ]  order
-- [ ]  justify-content
-- [ ]  align-items
+- [x]  justify-content
+- [x]  align-items
 - [ ]  align-self
 - [ ]  flex-wrap
 - [ ]  align-content
