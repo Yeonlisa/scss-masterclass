@@ -1,11 +1,11 @@
 # scss-masterclass
 노마드코더 CSS Layout 마스터클래스 학습한 것
 ## Flexbox:
-- [ ]  flex-direction
-- [ ]  order
+- [x]  flex-direction
+- [x]  order
 - [x]  justify-content
 - [x]  align-items
-- [ ]  align-self
+- [x]  align-self
 - [ ]  flex-wrap
 - [ ]  align-content
 - [ ]  flex-grow
