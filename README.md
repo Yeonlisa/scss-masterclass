@@ -8,8 +8,8 @@
 - [x]  align-self
 - [x]  flex-wrap
 - [x]  align-content
-- [ ]  flex-grow
-- [ ]  flex-shrink
+- [x]  flex-grow
+- [x]  flex-shrink
 - [ ]  flex-basis
 ## Grid:
 - [ ]  grid-template-columns
