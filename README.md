@@ -12,11 +12,11 @@
 - [x]  flex-shrink
 - [x]  flex-basis
 ## Grid:
-- [ ]  grid-template-columns
-- [ ]  grid-template-rows
-- [ ]  column-gap
-- [ ]  row-gap
-- [ ]  gap
+- [x]  grid-template-columns
+- [x]  grid-template-rows
+- [x]  column-gap
+- [x]  row-gap
+- [x]  gap
 - [ ]  grid-template-areas
 - [ ]  grid-column-start
 - [ ]  grid-column-end
