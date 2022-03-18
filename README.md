@@ -43,8 +43,8 @@
 - [x]  minmax
 - [x]  auto-fit
 - [x]  auto-fill
-- [ ]  min-content
-- [ ]  max-content
+- [x]  min-content
+- [x]  max-content
 ## SCSS:
 - [ ]  Variables
 - [ ]  Nesting
