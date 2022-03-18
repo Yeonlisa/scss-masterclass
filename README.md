@@ -18,13 +18,13 @@
 - [x]  row-gap
 - [x]  gap
 - [x]  grid-template-areas
-- [ ]  grid-column-start
-- [ ]  grid-column-end
-- [ ]  grid-row-start
-- [ ]  grid-row-end
-- [ ]  grid-column
-- [ ]  grid-row
-- [ ]  grid-template
+- [x]  grid-column-start
+- [x]  grid-column-end
+- [x]  grid-row-start
+- [x]  grid-row-end
+- [x]  grid-column
+- [x]  grid-row
+- [x]  grid-template
 - [ ]  justify-items
 - [ ]  align-items
 - [ ]  place-items
@@ -38,8 +38,8 @@
 - [ ]  grid-auto-flow
 - [ ]  grid-auto-columns
 ## Keywords & Functions:
-- [ ]  repeat
-- [ ]  fr
+- [x]  repeat
+- [x]  fr
 - [ ]  minmax
 - [ ]  auto-fit
 - [ ]  auto-fill
