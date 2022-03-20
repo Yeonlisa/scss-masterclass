@@ -46,8 +46,8 @@
 - [x]  min-content
 - [x]  max-content
 ## SCSS:
-- [ ]  Variables
-- [ ]  Nesting
+- [x]  Variables
+- [x]  Nesting
 - [ ]  Mixins
 - [ ]  Extend
 - [ ]  Responsive Mixins
