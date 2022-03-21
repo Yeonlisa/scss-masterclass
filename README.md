@@ -50,7 +50,7 @@
 - [x]  Nesting
 - [x]  Mixins
 - [x]  Extend
-- [ ]  Responsive Mixins
+- [x]  Responsive Mixins
 ## To Clone:
 - [ ]  https://besthorrorscenes.com/
 - [ ]  https://paint-box.com/
