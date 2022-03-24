@@ -58,7 +58,7 @@
 - [x]  http://www.z-o-o.fr/
 - [x]  https://schwartzmedia.com.au/
 - [x]  https://tolv.dk/
-- [ ]  https://rodicdavidson.co.uk/
+- [x]  https://rodicdavidson.co.uk/
 - [ ]  https://beige.de/
 - [ ]  http://donicaida.com/
 - [ ]  https://canalstreet.market/
