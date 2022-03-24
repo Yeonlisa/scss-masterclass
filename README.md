@@ -57,7 +57,7 @@
 - [x]  http://10x19.co/
 - [x]  http://www.z-o-o.fr/
 - [x]  https://schwartzmedia.com.au/
-- [ ]  https://tolv.dk/
+- [x]  https://tolv.dk/
 - [ ]  https://rodicdavidson.co.uk/
 - [ ]  https://beige.de/
 - [ ]  http://donicaida.com/
