@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito|PT+Serif:400,400i&display=swap");
 @import "_variables";
 @import "_elements";
 
@@ -8,63 +9,36 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    margin-top: 40px;
+    font-family: "PT Serif", serif;
+    background-color: #f0efeb;
+    color: $black;
+    padding: 30px 40px;
+    line-height: 1.5;
 }
-.header {
-    width: 100%;
-    background-color: white;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    position: fixed;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    padding: 0px 10px;
-    h1 {
-        font-size: 22px;
-        text-transform: uppercase;
+header {
+    font-size: 46px;
+    letter-spacing: 1px;
+    margin-bottom: 175px;
+}
+
+.works {
+    margin-bottom: 80px;
+    .works__header {
+        @extend %grid;
+        padding-bottom: 10px;
+        span {
+            @extend %tinyText;
+        }
     }
-    nav {
-        ul {
-            display: flex;
-            li {
-                font-size: 20px;
-                display: flex;
-                align-items: center;
-                &:nth-child(3n + 1) {
-                    span {
-                        background-color: #e4c464;
-                    }
-                }
-                &:nth-child(3n + 2) {
-                    span {
-                        background-color: #56854a;
-                    }
-                }
-                &:nth-child(3n + 3) {
-                    span {
-                        background-color: #97c2de;
-                    }
-                }
-                span {
-                    margin-right: 5px;
-                    height: 15px;
-                    width: 15px;
-                    background-color: red;
-                    border-radius: 50%;
-                }
-                a {
-                    color: inherit;
-                    text-decoration: none;
-                    text-transform: uppercase;
-                }
-                &:not(:last-child) {
-                    margin-right: 20px;
-                }
+    .works__list {
+        .works__work {
+          cursor: pointer;
+          font-size: 20px;
+          border-top: 1px solid $black;
+          padding: 20px 0px;
+          @extend %grid;
+          &:hover {
+            font-style: italic;
             }
         }
     }

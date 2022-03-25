@@ -60,6 +60,6 @@
 - [x]  https://tolv.dk/
 - [x]  https://rodicdavidson.co.uk/
 - [x]  https://beige.de/
-- [ ]  http://donicaida.com/
+- [x]  http://donicaida.com/
 - [ ]  https://canalstreet.market/
 - [ ]  https://wonhundred.com/
