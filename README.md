@@ -59,7 +59,7 @@
 - [x]  https://schwartzmedia.com.au/
 - [x]  https://tolv.dk/
 - [x]  https://rodicdavidson.co.uk/
-- [ ]  https://beige.de/
+- [x]  https://beige.de/
 - [ ]  http://donicaida.com/
 - [ ]  https://canalstreet.market/
 - [ ]  https://wonhundred.com/
